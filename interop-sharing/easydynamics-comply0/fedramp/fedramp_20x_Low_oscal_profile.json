@@ -1,0 +1,34 @@
+{
+  "profile" : {
+    "imports" : [ {
+      "href" : "#9593eccb-e881-4b36-b750-e3e28bc15ea8",
+      "include-controls" : [ { }, {
+        "with-ids" : [ "FRR-PVA-01", "FRR-PVA-02", "FRR-PVA-03", "FRR-PVA-04", "FRR-PVA-05", "FRR-PVA-06", "FRR-PVA-07", "FRR-PVA-08", "FRR-PVA-09", "FRR-PVA-10", "FRR-PVA-11", "FRR-PVA-12", "FRR-PVA-13", "FRR-PVA-14", "FRR-PVA-15", "FRR-PVA-16", "FRR-PVA-17", "FRR-PVA-18", "FRR-PVA-TF-LO-01", "FRR-PVA-TF-LO-02", "FRR-RSC-01", "FRR-RSC-02", "FRR-RSC-03", "FRR-RSC-04", "FRR-RSC-05", "FRR-RSC-06", "FRR-RSC-07", "FRR-RSC-08", "FRR-RSC-09", "FRR-RSC-10", "FRR-UCM-01", "FRR-UCM-02", "FRR-ADS-01", "FRR-ADS-02", "FRR-ADS-03", "FRR-ADS-04", "FRR-ADS-05", "FRR-ADS-06", "FRR-ADS-07", "FRR-ADS-08", "FRR-ADS-09", "FRR-ADS-10", "FRR-ADS-AC-01", "FRR-ADS-AC-02", "FRR-ADS-TC-01", "FRR-ADS-TC-02", "FRR-ADS-TC-03", "FRR-ADS-TC-04", "FRR-ADS-TC-05", "FRR-ADS-TC-06", "FRR-ADS-TC-07", "FRR-ADS-EX-01", "FRR-VDR-01", "FRR-VDR-02", "FRR-VDR-03", "FRR-VDR-04", "FRR-VDR-05", "FRR-VDR-06", "FRR-VDR-07", "FRR-VDR-08", "FRR-VDR-09", "FRR-VDR-10", "FRR-VDR-11", "FRR-VDR-AY-01", "FRR-VDR-AY-02", "FRR-VDR-AY-03", "FRR-VDR-AY-04", "FRR-VDR-AY-05", "FRR-VDR-AY-06", "FRR-VDR-RP-01", "FRR-VDR-RP-02", "FRR-VDR-RP-03", "FRR-VDR-RP-04", "FRR-VDR-RP-05", "FRR-VDR-RP-06", "FRR-VDR-EX-01", "FRR-VDR-EX-02", "FRR-VDR-EX-03", "FRR-VDR-TF-01", "FRR-VDR-TF-02", "FRR-VDR-TF-03", "FRR-VDR-TF-LO-01", "FRR-VDR-TF-LO-02", "FRR-VDR-TF-LO-03", "FRR-VDR-TF-LO-04", "FRR-VDR-TF-LO-05", "FRR-VDR-TF-LO-06", "FRR-VDR-TF-LO-07", "FRR-VDR-AG-01", "FRR-VDR-AG-02", "FRR-VDR-AG-03", "FRR-VDR-AG-04", "FRR-FSI-01", "FRR-FSI-02", "FRR-FSI-03", "FRR-FSI-04", "FRR-FSI-05", "FRR-FSI-06", "FRR-FSI-07", "FRR-FSI-08", "FRR-FSI-09", "FRR-FSI-10", "FRR-FSI-11", "FRR-FSI-12", "FRR-FSI-13", "FRR-FSI-14", "FRR-FSI-15", "FRR-FSI-16", "FRR-ICP-01", "FRR-ICP-02", "FRR-ICP-03", "FRR-ICP-04", "FRR-ICP-05", "FRR-ICP-06", "FRR-ICP-07", "FRR-ICP-08", "FRR-ICP-09", "FRR-SCN-01", "FRR-SCN-02", "FRR-SCN-03", "FRR-SCN-04", "FRR-SCN-05", "FRR-SCN-06", "FRR-SCN-07", "FRR-SCN-08", "FRR-SCN-09", "FRR-SCN-10", "FRR-SCN-RR-01", "FRR-SCN-AD-01", "FRR-SCN-TR-01", "FRR-SCN-TR-02", "FRR-SCN-TR-03", "FRR-SCN-TR-04", "FRR-SCN-TR-05", "FRR-SCN-TR-06", "FRR-SCN-TR-07", "FRR-SCN-IM-01", "FRR-SCN-EX-01", "FRR-SCN-EX-02", "FRR-KSI-01", "FRR-KSI-02", "KSI-AFR-01", "KSI-AFR-02", "KSI-AFR-03", "KSI-AFR-04", "KSI-AFR-05", "KSI-AFR-06", "KSI-AFR-07", "KSI-AFR-08", "KSI-AFR-09", "KSI-AFR-10", "KSI-AFR-11", "KSI-CED-01", "KSI-CED-02", "KSI-CED-03", "KSI-CED-04", "KSI-CMT-01", "KSI-CMT-02", "KSI-CMT-03", "KSI-CMT-04", "KSI-CNA-01", "KSI-CNA-02", "KSI-CNA-03", "KSI-CNA-04", "KSI-CNA-05", "KSI-CNA-06", "KSI-CNA-07", "KSI-IAM-01", "KSI-IAM-02", "KSI-IAM-03", "KSI-IAM-04", "KSI-IAM-05", "KSI-IAM-06", "KSI-IAM-07", "KSI-INR-01", "KSI-INR-02", "KSI-INR-03", "KSI-MLA-01", "KSI-MLA-02", "KSI-MLA-05", "KSI-MLA-07", "KSI-PIY-01", "KSI-PIY-02", "KSI-PIY-03", "KSI-PIY-04", "KSI-PIY-05", "KSI-PIY-06", "KSI-PIY-07", "KSI-PIY-08", "KSI-RPL-01", "KSI-RPL-02", "KSI-RPL-03", "KSI-RPL-04", "KSI-SVC-01", "KSI-SVC-02", "KSI-SVC-04", "KSI-SVC-05", "KSI-SVC-06", "KSI-SVC-07", "KSI-TPR-03", "KSI-TPR-04", "FRR-CCM-01", "FRR-CCM-02", "FRR-CCM-03", "FRR-CCM-04", "FRR-CCM-05", "FRR-CCM-06", "FRR-CCM-07", "FRR-CCM-QR-01", "FRR-CCM-QR-03", "FRR-CCM-QR-04", "FRR-CCM-QR-05", "FRR-CCM-QR-06", "FRR-CCM-QR-07", "FRR-CCM-QR-08", "FRR-CCM-QR-09", "FRR-CCM-QR-10", "FRR-CCM-QR-11", "FRR-CCM-AG-01", "FRR-CCM-AG-02", "FRR-CCM-AG-04", "FRR-CCM-AG-05", "FRR-CCM-AG-06", "FRR-CCM-AG-07", "FRR-MAS-01", "FRR-MAS-02", "FRR-MAS-03", "FRR-MAS-04", "FRR-MAS-05", "FRR-MAS-AY-01", "FRR-MAS-AY-02", "FRR-MAS-AY-03", "FRR-MAS-AY-04", "FRR-MAS-AY-05", "FRR-MAS-AY-06", "FRR-MAS-EX-01" ]
+      } ]
+    } ],
+    "metadata" : {
+      "oscal-version" : "1.1.3",
+      "last-modified" : "2025-12-13T14:39:56Z",
+      "title" : "FedRAMP 20x OSCAL Low Profile",
+      "published" : "2024-01-08T00:00:00Z",
+      "version" : "2025-12-12"
+    },
+    "merge" : {
+      "combine" : {
+        "method" : "keep"
+      },
+      "as-is" : true
+    },
+    "back-matter" : {
+      "resources" : [ {
+        "title" : "FedRAMP 20x Requirements OSCAL Catalog",
+        "rlinks" : [ {
+          "href" : "fedramp_20x_Requirements_oscal_catalog.xml",
+          "media-type" : "application/xml"
+        } ],
+        "uuid" : "9593eccb-e881-4b36-b750-e3e28bc15ea8"
+      } ]
+    },
+    "uuid" : "1df33947-b610-49d0-a5ce-3ce68e161d56"
+  }
+}
